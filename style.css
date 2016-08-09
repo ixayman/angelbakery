@@ -1,0 +1,104 @@
+body {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+header{
+	height:116px;
+	background-color: #593a21;
+}
+#logo
+{
+	background-image: url(imgs/company_logo.jpg);
+	float:right;
+	width:116px;
+	height:116px;
+}
+header div div ul
+{
+	list-style: none;
+	margin: 0px auto;
+    padding-top: 10px;
+}
+header div div ul li
+{
+	float:left;
+	padding-left:2%;
+}
+header div div ul li:nth-child(2)
+{
+	    margin-top: -5px;
+
+}
+header div div ul li:nth-child(4)
+{
+	    margin-top: -5px;
+
+}
+#sec li
+{
+	padding-left: 1% !important;
+}
+
+#bigimg
+{
+	background-image: url(imgs/40536_banner-550x163_final-2.jpg);
+	width:1146px;
+	height:340px;
+	margin: 0 auto;
+}
+
+#content div
+{
+	float:left;
+	margin-left:4%;
+}
+#content div:first-child
+{
+	margin-left:0 !important;
+}
+#img1
+{
+	background-image: url(imgs/home_banner_bakery.jpg);
+	width: 208px;
+	height:169px;
+}
+#img2
+{
+	background-image: url(imgs/eruach.jpg);
+	width: 208px;
+	height:169px;
+}
+#img3
+{
+	background-image: url(imgs/danyangel_180x175.gif);
+	width: 180px;
+	height:175px;
+}
+.line
+{
+	background-image: url(imgs/home_line1.gif);
+	width:12px;
+	height:173px;
+	margin-left:1% !important;
+	margin-top: 10px;
+}
+#content h2
+{
+	color:#482608;
+	font-size: 16px;
+	font-weight:bold;
+    direction: rtl;	
+}
+footer div ul
+{
+	float:left;
+	list-style: none;
+}
+footer div ul li
+{
+	float:left;
+}
